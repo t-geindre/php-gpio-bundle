@@ -11,5 +11,8 @@
     ],
     "require": {
         "tgeindre/php-gpio": "^0.0.1"
+    },
+   "autoload": {
+        "psr-0": { "PhpGpio": "src/" }
     }
 }
