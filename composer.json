@@ -1,5 +1,5 @@
 {
-    "name": "thierry/php-gpio-bundle",
+    "name": "tgeindre/php-gpio-bundle",
     "description": "Provide php-gpio symfony integration",
     "type": "library",
     "license": "MIT",
@@ -9,5 +9,7 @@
             "email": "github.com@nostalgeek.org"
         }
     ],
-    "require": {}
+    "require": {
+        "tgeindre/php-gpio": "^0.0.1"
+    }
 }
