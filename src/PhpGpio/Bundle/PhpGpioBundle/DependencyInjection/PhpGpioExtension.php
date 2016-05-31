@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpGpio\Bundle\DependencyInjection;
+namespace PhpGpio\Bundle\PhpGpioBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

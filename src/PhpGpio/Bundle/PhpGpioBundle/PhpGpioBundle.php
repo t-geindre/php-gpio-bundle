@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpGpio\Bundle;
+namespace PhpGpio\Bundle\PhpGpioBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
