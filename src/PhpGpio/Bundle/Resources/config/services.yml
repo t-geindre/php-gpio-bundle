@@ -1,0 +1,4 @@
+services:
+#    php_gpio.example:
+#        class: PhpGpio\Bundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

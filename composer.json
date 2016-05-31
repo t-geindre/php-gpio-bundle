@@ -1,0 +1,13 @@
+{
+    "name": "thierry/php-gpio-bundle",
+    "description": "Provide php-gpio symfony integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Geindre",
+            "email": "github.com@nostalgeek.org"
+        }
+    ],
+    "require": {}
+}
